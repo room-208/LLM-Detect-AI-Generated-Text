@@ -13,7 +13,7 @@
 | `Driverless cars` |
 
 ## Leadear Board Probing
-[こちら](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/edit)のノートブックで確認してます。
+[こちら](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/edit)のノートブックで確認してます。`PERSUADE 2.0`の`prompt_name`ごとの上昇幅を確認します。
 | prompt | score |
 | ---- | ---- |
 | `追加なし` | 0.599 |
