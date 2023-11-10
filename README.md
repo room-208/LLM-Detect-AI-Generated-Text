@@ -13,3 +13,22 @@
 | `Driverless cars` |
 
 ## Leadear Board Probing
+[こちら](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/edit)のノートブックで確認してます。
+| prompt | score |
+| ---- | ---- |
+| `追加なし` | 0.599 |
+| `Phones and driving` |
+| `Car-free cities` | - |
+| `Summer projects` |
+| `"A Cowboy Who Rode the Waves"` |
+| `Mandatory extracurricular activities` |
+| `Exploring Venus` | 0.621 |
+| `Facial action coding system` |
+| `The Face on Mars` |
+| `Community service` |
+| `Grades for extracurricular activities` |
+| `Driverless cars` |
+| `Does the electoral college work?` | - |
+| `Cell phones at school` |
+| `Distance learning` |
+| `Seeking multiple opinions` |
