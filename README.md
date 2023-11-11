@@ -30,7 +30,7 @@
 | `追加なし` | 0.599 | 0.630 |
 | `Phones and driving` | 0.579 | 0.626 |
 | `Car-free cities` + `Does the electoral college work?` | 0.524 |
-| `Summer projects` | 0.602 |　0.626 |
+| `Summer projects` | 0.602 | 0.626 |
 | `"A Cowboy Who Rode the Waves"` | 0.590 | 0.632 |
 | `Mandatory extracurricular activities` |
 | `Exploring Venus` | 0.621 | 0.630 |
