@@ -15,11 +15,11 @@
 | `The Face on Mars` | 1583[^8] | | | 36[^4] |
 | `Community service` | 1542[^8] | | | 32[^4] |
 | `Grades for extracurricular activities` | 1626[^8] | | | 37[^4] |
-| `Driverless cars` | 1886[^8] |
-| `Does the electoral college work?` | 670[^1] + 2046[^8] | 250[^2] | 100[^2] |
-| `Cell phones at school` | 1656[^8] |
-| `Distance learning` | 2157[^8] |
-| `Seeking multiple opinions` | 1552[^8] |
+| `Driverless cars` | 1886[^8] | | | 38[^4] |
+| `Does the electoral college work?` | 670[^1] + 2046[^8] | 250[^2] | 100[^2] | 31[^4] |
+| `Cell phones at school` | 1656[^8] | | | 24[^4] |
+| `Distance learning` | 2157[^8] | | | 44[^4] |
+| `Seeking multiple opinions` | 1552[^8] | | | 32[^4] |
 | `PERSUADE 2.0 以外` | | 2421[^3](or gpt-4) | | 659[^4] | 604[^4] |
 
 [^1]:[llm-detect-ai-generated-text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
