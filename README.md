@@ -6,9 +6,9 @@
 | prompt | human | gpt-3.5 | gpt-4 | llama-70b | falcon-180b | mistral-7b | claude |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | `Phones and driving` | 1168[^8] | | | 37[^4] |
-| `Car-free cities` | 708[^1] + 1959[^8] | 250[^2] | 100[^2] |
-| `Summer projects` | 1750[^8] |
-| `"A Cowboy Who Rode the Waves"` | 1372[^8] |
+| `Car-free cities` | 708[^1] + 1959[^8] | 250[^2] | 100[^2] | 39[^4] |
+| `Summer projects` | 1750[^8] | | | 34[^4] |
+| `"A Cowboy Who Rode the Waves"` | 1372[^8] | | | 28[^4] |
 | `Mandatory extracurricular activities` | 1670[^8] |
 | `Exploring Venus` | 1862[^8] |
 | `Facial action coding system` | 2167[^8] |
