@@ -11,8 +11,8 @@
 | `"A Cowboy Who Rode the Waves"` | 1372[^8] | | | 28[^4] |
 | `Mandatory extracurricular activities` | 1670[^8] | | | 36[^4] |
 | `Exploring Venus` | 1862[^8] | | | 31[^4] |
-| `Facial action coding system` | 2167[^8] |
-| `The Face on Mars` | 1583[^8] |
+| `Facial action coding system` | 2167[^8] | | | 34[^4] |
+| `The Face on Mars` | 1583[^8] | | | 36[^4] |
 | `Community service` | 1542[^8] |
 | `Grades for extracurricular activities` | 1626[^8] |
 | `Driverless cars` | 1886[^8] |
