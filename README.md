@@ -20,6 +20,15 @@
 | `Distance learning` |
 | `Seeking multiple opinions` |
 
+[^1]:[llm-detect-ai-generated-text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
+[^2]:[llm-generated-essays](https://www.kaggle.com/datasets/radek1/llm-generated-essays/)
+[^3]:[daigt-external-dataset](https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset/)
+[^4]:[daigt-data-llama-70b-and-falcon180b](https://www.kaggle.com/datasets/nbroad/daigt-data-llama-70b-and-falcon180b/)
+[^5]:[daigt-proper-train-dataset](https://www.kaggle.com/datasets/thedrcat/daigt-proper-train-dataset/)
+[^6]:[hello-claude-1000-essays-from-anthropic](https://www.kaggle.com/datasets/darraghdog/hello-claude-1000-essays-from-anthropic/)
+[^7]:[llm-7-prompt-training-dataset](https://www.kaggle.com/datasets/carlmcbrideellis/llm-7-prompt-training-dataset/)
+[^8]:[persaude-corpus-2](https://www.kaggle.com/datasets/nbroad/persaude-corpus-2/)
+
 ## Leadear Board Probing
 
 ### Prompt 探索
