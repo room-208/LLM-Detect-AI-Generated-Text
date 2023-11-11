@@ -4,8 +4,8 @@
 
 | prompt | human | gpt-3.5 | gpt-4 | llama-7b | llama-70b | falcon-180b | mistral-7b | claude |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| `Phones and driving` | 100[^1] |
-| `Car-free cities` |
+| `Phones and driving` |
+| `Car-free cities` | 708[^1] |
 | `Summer projects` |
 | `"A Cowboy Who Rode the Waves"` |
 | `Mandatory extracurricular activities` |
@@ -15,7 +15,7 @@
 | `Community service` |
 | `Grades for extracurricular activities` |
 | `Driverless cars` |
-| `Does the electoral college work?` |
+| `Does the electoral college work?` | 670[^1] |
 | `Cell phones at school` |
 | `Distance learning` |
 | `Seeking multiple opinions` |
