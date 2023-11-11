@@ -20,6 +20,7 @@
 | `Cell phones at school` | 1656[^8] |
 | `Distance learning` | 2157[^8] |
 | `Seeking multiple opinions` | 1552[^8] |
+| `other` | | 2421[^3](or gpt-4) |
 
 [^1]:[llm-detect-ai-generated-text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
 [^2]:[llm-generated-essays](https://www.kaggle.com/datasets/radek1/llm-generated-essays/)
