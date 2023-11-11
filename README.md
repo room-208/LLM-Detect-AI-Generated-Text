@@ -22,8 +22,8 @@
 
 ## Leadear Board Probing
 `PERSUADE 2.0`の`prompt_name`ごとの上昇幅を確認します。
-| prompt | [LB Probing With Xgboost](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/edit) |
-| ---- | ---- |
+| prompt | [LB Probing With Xgboost](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/notebook) | [LB Probing With LogisticRegression](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression/notebook) |
+| ---- | ---- | ---- |
 | `追加なし` | 0.599 |
 | `Phones and driving` | 0.579 |
 | `Car-free cities` + `Does the electoral college work?` | 0.524 |
