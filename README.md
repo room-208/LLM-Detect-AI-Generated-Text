@@ -27,13 +27,13 @@
 [PERSUADE 2.0](https://www.kaggle.com/datasets/nbroad/persaude-corpus-2)の`prompt_name`ごとの上昇幅を確認します。（サンプル数の比率やvalidationをしていないので、する必要はあるかもしれない。）
 | prompt | [LB Probing With Xgboost](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/notebook) | [LB Probing With LogisticRegression](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression/notebook) |
 | ---- | ---- | ---- |
-| `追加なし` | 0.599 |
-| `Phones and driving` | 0.579 |
+| `追加なし` | 0.599 | 0.630 |
+| `Phones and driving` | 0.579 | 0.626 |
 | `Car-free cities` + `Does the electoral college work?` | 0.524 |
-| `Summer projects` | 0.602 |
-| `"A Cowboy Who Rode the Waves"` | 0.590 |
+| `Summer projects` | 0.602 |　0.626 |
+| `"A Cowboy Who Rode the Waves"` | 0.590 | 0.632 |
 | `Mandatory extracurricular activities` |
-| `Exploring Venus` | 0.621 |
+| `Exploring Venus` | 0.621 | 0.630 |
 | `Facial action coding system` | 0.606 |
 | `The Face on Mars` | 0.606 |
 | `Community service` |
