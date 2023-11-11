@@ -17,8 +17,8 @@
 | prompt | score |
 | ---- | ---- |
 | `追加なし` | 0.599 |
-| `Phones and driving` |
-| `Car-free cities` | - |
+| `Phones and driving` | 0.579 |
+| `Car-free cities` + `Does the electoral college work?` | 0.524 |
 | `Summer projects` |
 | `"A Cowboy Who Rode the Waves"` |
 | `Mandatory extracurricular activities` |
@@ -28,7 +28,6 @@
 | `Community service` |
 | `Grades for extracurricular activities` |
 | `Driverless cars` |
-| `Does the electoral college work?` | - |
 | `Cell phones at school` |
 | `Distance learning` |
 | `Seeking multiple opinions` |
