@@ -21,8 +21,8 @@
 | `Seeking multiple opinions` |
 
 ## Leadear Board Probing
-[LB Probing With Xgboost](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/edit)のノートブックで確認してます。`PERSUADE 2.0`の`prompt_name`ごとの上昇幅を確認します。
-| prompt | score |
+`PERSUADE 2.0`の`prompt_name`ごとの上昇幅を確認します。
+| prompt | [LB Probing With Xgboost](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/edit) |
 | ---- | ---- |
 | `追加なし` | 0.599 |
 | `Phones and driving` | 0.579 |
