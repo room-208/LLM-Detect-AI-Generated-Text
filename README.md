@@ -2,6 +2,7 @@
 
 ## Dataset
 
+それぞれの`prompt`に対するサンプル数をまとめる
 | prompt | human | gpt-3.5 | gpt-4 | llama-7b | llama-70b | falcon-180b | mistral-7b | claude |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | `Phones and driving` |
