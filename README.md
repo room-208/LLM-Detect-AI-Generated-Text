@@ -29,7 +29,7 @@
 | ---- | ---- | ---- |
 | `追加なし` | 0.599 | 0.630 |
 | `Phones and driving` |
-| `Car-free cities` |
+| `Car-free cities` | - | - |
 | `Summer projects` |
 | `"A Cowboy Who Rode the Waves"` |
 | `Mandatory extracurricular activities` |
@@ -39,7 +39,7 @@
 | `Community service` |
 | `Grades for extracurricular activities` |
 | `Driverless cars` |
-| `Does the electoral college work?` |
+| `Does the electoral college work?` | - | - |
 | `Cell phones at school` |
 | `Distance learning` |
 | `Seeking multiple opinions` |
