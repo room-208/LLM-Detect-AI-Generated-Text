@@ -9,8 +9,8 @@
 | `Car-free cities` | 708[^1] + 1959[^8] | 250[^2] | 100[^2] | 39[^4] |
 | `Summer projects` | 1750[^8] | | | 34[^4] |
 | `"A Cowboy Who Rode the Waves"` | 1372[^8] | | | 28[^4] |
-| `Mandatory extracurricular activities` | 1670[^8] |
-| `Exploring Venus` | 1862[^8] |
+| `Mandatory extracurricular activities` | 1670[^8] | | | 36[^4] |
+| `Exploring Venus` | 1862[^8] | | | 31[^4] |
 | `Facial action coding system` | 2167[^8] |
 | `The Face on Mars` | 1583[^8] |
 | `Community service` | 1542[^8] |
