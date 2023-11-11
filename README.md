@@ -5,21 +5,21 @@
 それぞれの`prompt`に対するサンプル数をまとめる
 | prompt | human | gpt-3.5 | gpt-4 | llama-7b | llama-70b | falcon-180b | mistral-7b | claude |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| `Phones and driving` |
-| `Car-free cities` | 708[^1] | 250[^2] | 100[^2] |
-| `Summer projects` |
-| `"A Cowboy Who Rode the Waves"` |
-| `Mandatory extracurricular activities` |
-| `Exploring Venus` |
-| `Facial action coding system` |
-| `The Face on Mars` |
-| `Community service` |
-| `Grades for extracurricular activities` |
-| `Driverless cars` |
-| `Does the electoral college work?` | 670[^1] | 250[^2] | 100[^2] |
-| `Cell phones at school` |
-| `Distance learning` |
-| `Seeking multiple opinions` |
+| `Phones and driving` | 1168[^8] |
+| `Car-free cities` | 708[^1] + 1959[^8] | 250[^2] | 100[^2] |
+| `Summer projects` | 1750[^8] |
+| `"A Cowboy Who Rode the Waves"` | 1372[^8] |
+| `Mandatory extracurricular activities` | 1670[^8] |
+| `Exploring Venus` | 1862[^8] |
+| `Facial action coding system` | 2167[^8] |
+| `The Face on Mars` | 1583[^8] |
+| `Community service` | 1542[^8] |
+| `Grades for extracurricular activities` | 1626[^8] |
+| `Driverless cars` | 1886[^8] |
+| `Does the electoral college work?` | 670[^1] + 2046[^8] | 250[^2] | 100[^2] |
+| `Cell phones at school` | 1656[^8] |
+| `Distance learning` | 2157[^8] |
+| `Seeking multiple opinions` | 1552[^8] |
 
 [^1]:[llm-detect-ai-generated-text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
 [^2]:[llm-generated-essays](https://www.kaggle.com/datasets/radek1/llm-generated-essays/)
