@@ -39,7 +39,7 @@
 | prompt | [LB Probing With Xgboost](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/notebook) | [LB Probing With LogisticRegression](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression/notebook) |
 | ---- | ---- | ---- |
 | `追加なし` | 0.599 | 0.630 |
-| `Phones and driving` | TBD | 0.628 |
+| `Phones and driving` | 0.548 | 0.628 |
 | `Car-free cities` | - | - |
 | `Summer projects` | TBD | 0.607 |
 | `"A Cowboy Who Rode the Waves"` | TBD | 0.679 |
