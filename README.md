@@ -39,12 +39,12 @@
 | prompt | [LB Probing With Xgboost](https://www.kaggle.com/code/room208/lb-probing-with-xgboost/notebook) | [LB Probing With LogisticRegression](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression/notebook) |
 | ---- | ---- | ---- |
 | `追加なし` | 0.599 | 0.630 |
-| `Phones and driving` |
+| `Phones and driving` | TBD | 0.628 |
 | `Car-free cities` | - | - |
-| `Summer projects` |
-| `"A Cowboy Who Rode the Waves"` |
-| `Mandatory extracurricular activities` |
-| `Exploring Venus` |
+| `Summer projects` | TBD | 0.607 |
+| `"A Cowboy Who Rode the Waves"` | TBD | 0.679 |
+| `Mandatory extracurricular activities` | TBD | 0.643 |
+| `Exploring Venus` | TBD | 0.643 |
 | `Facial action coding system` |
 | `The Face on Mars` |
 | `Community service` |
