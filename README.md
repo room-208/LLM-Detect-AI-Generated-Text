@@ -41,7 +41,7 @@
 | `追加なし` | 0.599 | 0.630 |
 | `Phones and driving` | 0.548 | 0.628 |
 | `Car-free cities` | - | - |
-| `Summer projects` | TBD | 0.607 |
+| `Summer projects` | 0.579 | 0.607 |
 | `"A Cowboy Who Rode the Waves"` | TBD | 0.679 |
 | `Mandatory extracurricular activities` | TBD | 0.643 |
 | `Exploring Venus` | TBD | 0.643 |
