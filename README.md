@@ -43,7 +43,7 @@
 | `Car-free cities` | - | - |
 | `Summer projects` | 0.579 | 0.607 |
 | `"A Cowboy Who Rode the Waves"` | 0.550 | 0.679 |
-| `Mandatory extracurricular activities` | TBD | 0.643 |
+| `Mandatory extracurricular activities` | 0.536 | 0.643 |
 | `Exploring Venus` | TBD | 0.643 |
 | `Facial action coding system` |
 | `The Face on Mars` |
