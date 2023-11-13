@@ -3,8 +3,8 @@
 ## Dataset
 
 それぞれの`prompt`に対するサンプル数をまとめる。ただし、[llm-detect-ai-generated-text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)と[persaude-corpus-2](https://www.kaggle.com/datasets/nbroad/persaude-corpus-2/)には重複した文が存在することに注意する。
-| prompt | human | gpt-3.5 | gpt-4 | llama-70b | falcon-180b | claude | mistral-7b |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| prompt | human | gpt-3.5 | gpt-4 | llama-70b | falcon-180b | claude | mistral-7b | PaLM 2 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | `Phones and driving` | 1168[^8] | | | 37[^4] | 29[^4] | 69[^6] |
 | `Car-free cities` | 708[^1] + 1959[^8] | 250[^2] | 100[^2] | 39[^4] | 35[^4] | 49[^6] |
 | `Summer projects` | 1750[^8] | | | 34[^4] | 26[^4] | 60[^6] |
