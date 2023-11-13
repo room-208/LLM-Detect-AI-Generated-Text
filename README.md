@@ -55,4 +55,24 @@
 | `Distance learning` | | |
 | `Seeking multiple opinions` | | |
 
+`prompt`を抜いた場合の変動幅を確認します。
+| prompt | LB Probing With Xgboost Vesion2 | [LB Probing With LogisticRegression Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression-vesion2) |
+| ---- | ---- | ---- |
+| `all` |  |  |
+| `Phones and driving` |  |  |
+| `Car-free cities` | - | - |
+| `Summer projects` |  |  |
+| `"A Cowboy Who Rode the Waves"` |  |  |
+| `Mandatory extracurricular activities` |  |  |
+| `Exploring Venus` |  |  |
+| `Facial action coding system` |  |  |
+| `The Face on Mars` |  |  |
+| `Community service` |  |  |
+| `Grades for extracurricular activities` |  |  |
+| `Driverless cars` |  |  |
+| `Does the electoral college work?` | - | - |
+| `Cell phones at school` | | |
+| `Distance learning` | | |
+| `Seeking multiple opinions` | | |
+
 ### 人間と機械の比率の探索
