@@ -56,7 +56,7 @@
 | `Seeking multiple opinions` | | |
 
 `prompt`を抜いた場合の変動幅を確認します。
-| prompt | LB Probing With Xgboost Vesion2 | [LB Probing With LogisticRegression Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression-vesion2) |
+| prompt | [LB Probing With Xgboost Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-xgboost-vesion2) | [LB Probing With LogisticRegression Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression-vesion2) |
 | ---- | ---- | ---- |
 | `all` |  |  |
 | `Phones and driving` |  |  |
