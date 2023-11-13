@@ -47,7 +47,7 @@
 | `Exploring Venus` | 0.527 | 0.643 |
 | `Facial action coding system` | 0.573 | |
 | `The Face on Mars` | 0.6 | |
-| `Community service` |
+| `Community service` | 0.583 |
 | `Grades for extracurricular activities` |
 | `Driverless cars` |
 | `Does the electoral college work?` | - | - |
