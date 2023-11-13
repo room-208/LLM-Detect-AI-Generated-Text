@@ -46,7 +46,7 @@
 | `Mandatory extracurricular activities` | 0.536 | 0.643 |
 | `Exploring Venus` | 0.527 | 0.643 |
 | `Facial action coding system` | 0.573 | |
-| `The Face on Mars` |
+| `The Face on Mars` | 0.6 | |
 | `Community service` |
 | `Grades for extracurricular activities` |
 | `Driverless cars` |
