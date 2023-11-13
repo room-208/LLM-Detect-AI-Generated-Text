@@ -48,11 +48,11 @@
 | `Facial action coding system` | 0.573 | |
 | `The Face on Mars` | 0.6 | |
 | `Community service` | 0.583 |
-| `Grades for extracurricular activities` |
-| `Driverless cars` |
+| `Grades for extracurricular activities` | 0.555 | |
+| `Driverless cars` | | |
 | `Does the electoral college work?` | - | - |
-| `Cell phones at school` |
-| `Distance learning` |
-| `Seeking multiple opinions` |
+| `Cell phones at school` | | |
+| `Distance learning` | | |
+| `Seeking multiple opinions` | | |
 
 ### 人間と機械の比率の探索
