@@ -44,12 +44,12 @@
 | `Summer projects` | 0.579 | 0.607 |
 | `"A Cowboy Who Rode the Waves"` | 0.550 | 0.679 |
 | `Mandatory extracurricular activities` | 0.536 | 0.643 |
-| `Exploring Venus` | 0.527 | 0.643 |
-| `Facial action coding system` | 0.573 | |
-| `The Face on Mars` | 0.6 | |
-| `Community service` | 0.583 |
-| `Grades for extracurricular activities` | 0.555 | |
-| `Driverless cars` | | |
+| `Exploring Venus` | 0.527 | Error(re-try) |
+| `Facial action coding system` | 0.573 | 0.60|
+| `The Face on Mars` | 0.6 |0.48 |
+| `Community service` | 0.583 |0.657 |
+| `Grades for extracurricular activities` | 0.555 | 0.658|
+| `Driverless cars` | |0.635 |
 | `Does the electoral college work?` | - | - |
 | `Cell phones at school` | | |
 | `Distance learning` | | |
