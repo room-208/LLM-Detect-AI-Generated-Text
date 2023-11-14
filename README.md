@@ -58,20 +58,20 @@
 `prompt`を抜いた場合の変動幅を確認します。
 | prompt | [LB Probing With Xgboost Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-xgboost-vesion2) | [LB Probing With LogisticRegression Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression-vesion2) |
 | ---- | ---- | ---- |
-| `all` |  |  |
+| `all` |  | 0.873 |
 | `Phones and driving` |  |  |
 | `Car-free cities` | - | - |
 | `Summer projects` |  |  |
-| `"A Cowboy Who Rode the Waves"` |  |  |
+| `"A Cowboy Who Rode the Waves"` |  | 0.844 |
 | `Mandatory extracurricular activities` |  |  |
 | `Exploring Venus` |  |  |
 | `Facial action coding system` |  |  |
 | `The Face on Mars` |  |  |
-| `Community service` |  |  |
-| `Grades for extracurricular activities` |  |  |
+| `Community service` |  | 0.874 |
+| `Grades for extracurricular activities` |  | 0.874 |
 | `Driverless cars` |  |  |
 | `Does the electoral college work?` | - | - |
-| `Cell phones at school` | | |
+| `Cell phones at school` | |0.875 |
 | `Distance learning` | | |
 | `Seeking multiple opinions` | | |
 
