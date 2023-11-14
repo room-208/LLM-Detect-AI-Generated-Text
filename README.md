@@ -59,13 +59,13 @@
 | prompt | [LB Probing With Xgboost Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-xgboost-vesion2) | [LB Probing With LogisticRegression Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression-vesion2) |
 | ---- | ---- | ---- |
 | `all` |  | 0.873 |
-| `Phones and driving` |  |  |
+| `Phones and driving` |  | 0.874 |
 | `Car-free cities` | - | - |
-| `Summer projects` |  |  |
+| `Summer projects` |  | 0.874 |
 | `"A Cowboy Who Rode the Waves"` |  | 0.844 |
-| `Mandatory extracurricular activities` |  |  |
-| `Exploring Venus` |  |  |
-| `Facial action coding system` |  |  |
+| `Mandatory extracurricular activities` |  | 0.872 |
+| `Exploring Venus` |  | 0.879 |
+| `Facial action coding system` |  | 0.877 |
 | `The Face on Mars` |  |  |
 | `Community service` |  | 0.874 |
 | `Grades for extracurricular activities` |  | 0.874 |
