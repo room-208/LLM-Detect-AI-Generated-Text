@@ -58,7 +58,7 @@
 `prompt`を抜いた場合の変動幅を確認します。
 | prompt | [LB Probing With Xgboost Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-xgboost-vesion2) | [LB Probing With LogisticRegression Vesion2](https://www.kaggle.com/code/room208/lb-probing-with-logisticregression-vesion2) |
 | ---- | ---- | ---- |
-| `all` |  | 0.873 |
+| `all` | 0.77 | 0.873 |
 | `Phones and driving` |  | 0.874 |
 | `Car-free cities` | - | - |
 | `Summer projects` |  | 0.874 |
