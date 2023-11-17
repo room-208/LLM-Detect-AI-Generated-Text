@@ -66,13 +66,13 @@
 | `Mandatory extracurricular activities` |  | 0.872 |
 | `Exploring Venus` |  | 0.879 |
 | `Facial action coding system` |  | 0.877 |
-| `The Face on Mars` |  |  |
+| `The Face on Mars` |  | 0.827 |
 | `Community service` |  | 0.874 |
 | `Grades for extracurricular activities` |  | 0.874 |
-| `Driverless cars` |  |  |
+| `Driverless cars` |  | 0.875 |
 | `Does the electoral college work?` | - | - |
-| `Cell phones at school` | |0.875 |
-| `Distance learning` | | |
-| `Seeking multiple opinions` | | |
+| `Cell phones at school` | | 0.875 |
+| `Distance learning` | | 0.874 |
+| `Seeking multiple opinions` | | 0.872 |
 
 ### 人間と機械の比率の探索
