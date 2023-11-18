@@ -60,7 +60,7 @@
 | ---- | ---- | ---- |
 | `all` | 0.77 | 0.873 |
 | `Phones and driving` | 0.772 | 0.874 |
-| `Car-free cities` | 0.776 | - |
+| `Car-free cities` | 0.776 |0.876 |
 | `Summer projects` | 0.774 | 0.874 |
 | `"A Cowboy Who Rode the Waves"` | 0.751 | 0.844 |
 | `Mandatory extracurricular activities` | 0.771 | 0.872 |
@@ -70,7 +70,7 @@
 | `Community service` |  | 0.874 |
 | `Grades for extracurricular activities` |  | 0.874 |
 | `Driverless cars` |  | 0.875 |
-| `Does the electoral college work?` | - | - |
+| `Does the electoral college work?` | - | 0.877 |
 | `Cell phones at school` | | 0.875 |
 | `Distance learning` | | 0.874 |
 | `Seeking multiple opinions` | | 0.872 |
