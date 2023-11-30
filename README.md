@@ -3,10 +3,10 @@
 ## Dataset
 
 それぞれの`prompt`に対するサンプル数をまとめる。ただし、[llm-detect-ai-generated-text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)と[persaude-corpus-2](https://www.kaggle.com/datasets/nbroad/persaude-corpus-2/)には重複した文が存在することに注意する。（他にもある気がするので注意する！）
-| prompt | human | gpt-3.5 | gpt-4 | llama-70b | falcon-180b | claude | mistral-7b | PaLM 2 |
+| prompt | human | gpt-3.5 | gpt-4 | llama-70b | falcon-180b | claude | mistral-7b | PaLM |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | `Phones and driving` | 1168[^8] | | | 37[^4] | 29[^4] | 69[^6] |
-| `Car-free cities` | 708[^1] + 1959[^8] | 250[^2] | 100[^2] | 39[^4] | 35[^4] | 49[^6] |
+| `Car-free cities` | 708[^1] + 1959[^8] | 250[^2] | 100[^2] | 39[^4] | 35[^4] | 49[^6] | | 712[^9] |
 | `Summer projects` | 1750[^8] | | | 34[^4] | 26[^4] | 60[^6] |
 | `"A Cowboy Who Rode the Waves"` | 1372[^8] | | | 28[^4] | 31[^4] | 73[^6] |
 | `Mandatory extracurricular activities` | 1670[^8] | | | 36[^4] | 28[^4] | 78[^6] |
@@ -16,7 +16,7 @@
 | `Community service` | 1542[^8] | | | 32[^4] | 28[^4] | 53[^6] |
 | `Grades for extracurricular activities` | 1626[^8] | | | 37[^4] | 27[^4] | 64[^6] |
 | `Driverless cars` | 1886[^8] | | | 38[^4] | 24[^4] | 69[^6] |
-| `Does the electoral college work?` | 670[^1] + 2046[^8] | 250[^2] | 100[^2] | 31[^4] | 25[^4] | 74[^6] |
+| `Does the electoral college work?` | 670[^1] + 2046[^8] | 250[^2] | 100[^2] | 31[^4] | 25[^4] | 74[^6] | | 672[^9] |
 | `Cell phones at school` | 1656[^8] | | | 24[^4] | 32[^4] | 64[^6] |
 | `Distance learning` | 2157[^8] | | | 44[^4] | 33[^4] | 66[^6] |
 | `Seeking multiple opinions` | 1552[^8] | | | 32[^4] | 36[^4] | 77[^6] |
