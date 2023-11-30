@@ -2,7 +2,7 @@
 
 ## Dataset
 
-それぞれの`prompt`に対するサンプル数をまとめる。ただし、[llm-detect-ai-generated-text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)と[persaude-corpus-2](https://www.kaggle.com/datasets/nbroad/persaude-corpus-2/)には重複した文が存在することに注意する。
+それぞれの`prompt`に対するサンプル数をまとめる。ただし、[llm-detect-ai-generated-text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)と[persaude-corpus-2](https://www.kaggle.com/datasets/nbroad/persaude-corpus-2/)には重複した文が存在することに注意する。（他にもある気がするので注意する！）
 | prompt | human | gpt-3.5 | gpt-4 | llama-70b | falcon-180b | claude | mistral-7b | PaLM 2 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | `Phones and driving` | 1168[^8] | | | 37[^4] | 29[^4] | 69[^6] |
@@ -76,3 +76,6 @@
 | `Seeking multiple opinions` | | 0.872 |
 
 ### 人間と機械の比率の探索
+
+## Preprocessing
+前処理探すぞー
