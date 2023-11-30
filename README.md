@@ -30,6 +30,7 @@
 [^6]:[hello-claude-1000-essays-from-anthropic](https://www.kaggle.com/datasets/darraghdog/hello-claude-1000-essays-from-anthropic/)
 [^7]:[llm-7-prompt-training-dataset](https://www.kaggle.com/datasets/carlmcbrideellis/llm-7-prompt-training-dataset/)
 [^8]:[persaude-corpus-2](https://www.kaggle.com/datasets/nbroad/persaude-corpus-2/)
+[^9]:[LLM-generated essay using PaLM from Google Gen-AI](https://www.kaggle.com/datasets/kingki19/llm-generated-essay-using-palm-from-google-gen-ai)
 
 ## Leadear Board Probing
 
